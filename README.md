@@ -1,2 +1,2 @@
 # bikesharing
-Using Tableu to present a business proposal
+Using Tableau to present a business proposal
